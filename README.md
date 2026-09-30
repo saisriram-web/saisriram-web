@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Sai%20Sriram&fontSize=62&fontAlignY=36&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Android%20OS%20Enthusiast&descAlignY=58&descFontSize=20&descColor=38bdf8&animation=twinkling" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Saisriram%20S&fontSize=62&fontAlignY=36&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Android%20OS%20Enthusiast&descAlignY=58&descFontSize=20&descColor=38bdf8&animation=twinkling" width="100%" alt="Header Banner" />
 
 <!-- STATUS & METRIC PILLS -->
 <p align="center">
@@ -40,7 +40,7 @@
 ```bash
 $ saisriram --status
 {
-  "name": "Sai Sriram S",
+  "name": "Saisriram S",
   "title": "Software Developer · AI Builder · Android Explorer",
   "institution": "Sri Ramakrishna Institute of Technology (SRIT), Coimbatore",
   "degree": "B.E. Computer Science & Engineering (2025 - 2029)",
@@ -220,7 +220,7 @@ I'm always excited to collaborate on **innovative software**, **AI tools**, and 
 
 <p align="center">
   <code>"Great code has the power to solve real problems."</code><br>
-  <sub>Designed with ❤️ by <b>Sai Sriram S</b> · © 2026</sub>
+  <sub>Designed with ❤️ by <b>Saisriram S</b> · © 2026</sub>
 </p>
 
 </div>
