@@ -157,10 +157,10 @@ Beyond application code, I'm passionate about **system-level Android architectur
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=saisriram-web&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=10&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" alt="Sai's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saisriram-web&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=10&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" alt="Sai's GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisriram-web&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=10&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saisriram-web&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=10&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
@@ -169,10 +169,6 @@ Beyond application code, I'm passionate about **system-level Android architectur
     </td>
   </tr>
 </table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saisriram-web&theme=tokyo-night&hide_border=false&border_radius=10&area=true&color=38bdf8" alt="Contribution Graph" width="98%" />
 
 </div>
 
