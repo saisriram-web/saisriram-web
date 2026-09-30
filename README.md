@@ -13,14 +13,14 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://portfoliosaisriram.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+AI-Powered+Web+Applications+%26+Tools+%F0%9F%9A%80;Android+OS+%26+Custom+ROM+Architecture+Enthusiast+%F0%9F%93%B1;1st-Year+B.E.+CSE+%40+SRIT+Coimbatore+(Grad+2029)+%F0%9F%8E%93;Crafting+Fast%2C+Minimal+%26+Impactful+Software+%E2%9A%A1;Turning+Everyday+Problems+into+Shipped+Products+%F0%9F%9B%A0%EF%F8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+AI-Powered+Web+Applications+%26+Tools+%F0%9F%9A%80;Android+OS+%26+Custom+ROM+Architecture+Enthusiast+%F0%9F%93%B1;2nd-Year+B.E.+CSE+%40+SRIT+Coimbatore+(Grad+2029)+%F0%9F%8E%93;Crafting+Fast%2C+Minimal+%26+Impactful+Software+%E2%9A%A1;Turning+Everyday+Problems+into+Shipped+Products+%F0%9F%9B%A0%EF%F8%8F" alt="Typing Animation" />
 </a>
 
 <p align="center">
   <a href="https://portfoliosaisriram.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0D1117" alt="Portfolio" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=srsaisriram@gmail.com&su=Collaboration%20Inquiry%20via%20GitHub&body=Hi%20Sai%20Sriram,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=srsaisriram@gmail.com&su=Collaboration%20Inquiry%20via%20GitHub&body=Hi%20Saisriram%20S,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!" target="_blank">
     <img src="https://img.shields.io/badge/Get%20In%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email Me" />
   </a>
   <a href="https://x.com/1ram007" target="_blank">
