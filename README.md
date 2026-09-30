@@ -1,139 +1,145 @@
 <div align="center">
 
-# Hey, I'm Sai Sriram 👋
+# Sai Sriram
 
-### Engineering Student · Developer · Builder
+### Software Developer · Builder · Engineering Student
 
 <p>
   <a href="https://github.com/saisriram-web">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portfoliosaisriram.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+software;Exploring+AI+%26+modern+technologies;Learning+something+new+every+day" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+useful+software;Turning+ideas+into+products;Exploring+AI+%26+modern+technology"
+alt="Typing animation"
+/>
 
 </div>
 
 ---
 
-## `> whoami`
+## `> about_me`
 
-I'm an engineering student who enjoys turning ideas into software.
+I'm an engineering student who enjoys building software from ideas that start as simple problems.
 
-I'm interested in **software development, AI, emerging technologies, and building practical products** that solve interesting problems.
+My interests span **software development, AI, modern web technologies, and experimental product ideas**.
 
-I like experimenting, learning by building, and turning rough ideas into something people can actually use.
+I prefer learning by building — taking an idea from concept → interface → implementation → deployment.
+
+```text
+Think → Build → Test → Improve → Ship
+```
+
+---
+
+## `> what_i_build`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  ◉ Web Applications                                  │
+│  ◉ AI-powered Experiences                            │
+│  ◉ Developer Tools                                  │
+│  ◉ Experimental Products                             │
+│  ◉ Problem-solving Projects                          │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> featured_project`
+
+<div align="center">
+
+## 🎲 Do Something
+
+### Bored → Discover → Do
+
+</div>
+
+**Do Something** is a lightweight web application designed to transform moments of boredom into spontaneous real-world activities.
+
+Instead of giving users another reason to keep scrolling, the application takes the simple question:
+
+> **“What should I do?”**
+
+and turns it into an actionable random activity.
+
+### Product Idea
+
+```text
+BOREDOM
+   ↓
+Random Activity
+   ↓
+Quick Decision
+   ↓
+Real-World Action
+```
+
+### Key Features
+
+* **Random Activity Discovery** — instantly generate something to do
+* **Low-Friction UX** — minimal interaction between boredom and action
+* **Activity Variety** — different types of activities for different moods
+* **Time-Friendly Suggestions** — activities that can fit into short free moments
+* **Minimal Interface** — focused experience without unnecessary clutter
+* **Responsive Design** — designed for modern desktop and mobile experiences
+
+### Technology
+
+`TypeScript` · `Web` · `Vercel`
+
+<div align="center">
+
+### [→ View Live Project](https://do-something-plum.vercel.app/)
+
+</div>
 
 ---
 
 ## `> tech_stack`
 
-<div align="center">
-
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,python,java,cpp,javascript,html,css" />
+</p>
 
-### Tools & Technologies
+### Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs,firebase,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,git,github,vscode" />
+</p>
 
-</div>
-
----
-
-## `> currently_building`
+### Exploring
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  Currently exploring                                   │
-│                                                         │
-│  → AI-powered applications                             │
-│  → Developer tools                                     │
-│  → Modern web technologies                              │
-│  → Software engineering                                │
-│  → Turning ideas into real products                     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+AI / Machine Learning
+Modern Web Development
+Product Engineering
+Cloud Technologies
+Developer Tools
 ```
 
 ---
 
-## `> featured_projects`
+## `> development_philosophy`
 
-<div align="center">
+I like projects that start with a simple question:
 
-<table>
-<tr>
+> **“Can software solve this in a better way?”**
 
-<td width="50%">
+My approach is simple:
 
-### 🚀 Project One
+**Understand the problem → Design the experience → Build the solution → Iterate**
 
-A practical software project focused on solving a real-world problem.
-
-**Tech:** `Python` `AI` `Web`
-
-<a href="https://github.com/saisriram-web">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### ⚡ Project Two
-
-An application built to experiment with modern technologies and ideas.
-
-**Tech:** `JavaScript` `React` `Firebase`
-
-<a href="https://github.com/saisriram-web">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 Project Three
-
-An engineering project combining problem-solving with software development.
-
-**Tech:** `Python` `SQL` `APIs`
-
-<a href="https://github.com/saisriram-web">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🔧 Project Four
-
-A project built while exploring new technologies and development workflows.
-
-**Tech:** `C++` `Java` `Git`
-
-<a href="https://github.com/saisriram-web">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+I care about making projects that are not only functional, but also **simple to understand, pleasant to use, and practical in the real world.**
 
 ---
 
@@ -141,9 +147,15 @@ View Repository →
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saisriram-web&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=saisriram-web&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisriram-web&layout=compact&hide_border=true&theme=github_dark" />
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisriram-web&layout=compact&hide_border=true&theme=github_dark"
+/>
 
 </div>
 
@@ -151,32 +163,72 @@ View Repository →
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=saisriram-web&theme=github-dark-blue&hide_border=true" />
+<img
+src="https://streak-stats.demolab.com?user=saisriram-web&theme=github-dark-blue&hide_border=true"
+/>
 
 </div>
 
 ---
 
-## `> contribution_graph`
+## `> contribution_activity`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saisriram-web&theme=github-compact&hide_border=true&area=true" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=saisriram-web&theme=github-compact&hide_border=true&area=true"
+/>
 
 </div>
 
 ---
 
-## `> let's_connect`
+## `> current_focus`
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  Building meaningful software                 │
+│                                               │
+│  Exploring AI & emerging technologies         │
+│                                               │
+│  Improving full-stack development skills      │
+│                                               │
+│  Turning experimental ideas into products     │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## `> beyond_code`
+
+```text
+Technology
+    +
+Curiosity
+    +
+Problem Solving
+    +
+Creativity
+    =
+Better Products
+```
+
+I enjoy experimenting with ideas outside the usual tutorial projects and turning them into something tangible.
+
+---
+
+## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/saisriram-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://portfoliosaisriram.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -185,7 +237,7 @@ View Repository →
 
 <div align="center">
 
-### `Build → Break → Learn → Build Again.`
+### `Build ideas. Solve problems. Ship things.`
 
 <br>
 
